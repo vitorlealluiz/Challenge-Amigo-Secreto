@@ -2,7 +2,10 @@ let amigos = []; //array de amigos
 
 function adicionarAmigo(){
     let nome = document.getElementById("amigo").value; //recebe o nome do amigo
-    validarEntrada(nome);
+    if(nome == ""){
+        alert("Por favor, insira um nome.");
+        return; //sai da função caso o campo esteja vazio
+    }
     amigos.push(nome); //adiciona na lista
     exibirNomes();
     console.log(amigos);
@@ -12,13 +15,6 @@ function adicionarAmigo(){
 function limparCampo(){
     let inputNome = document.querySelector("input");
     inputNome.value = "";
-}
-
-function validarEntrada(input){
-    if(input == ""){
-        alert("Por favor, insira um nome.");
-        return; //sai da função caso o campo esteja vazio
-    }
 }
 
 function exibirNomes(){
@@ -33,6 +29,11 @@ function exibirNomes(){
 }
 
 function sortearAmigo(){
-    validarEntrada(amigos);
-
+    if(amigos == ""){
+        alert("Por favor, insira um nome.");
+        return;
+    }
+    let numeroSorteio = Math.floor(Math.random() * amigos.length);
+    let amigoSorteado = amigos[numeroSorteio];
+    document.getElementById("resultado").innerHTML = `<li>${amigoSorteado}</li>`;
 }
