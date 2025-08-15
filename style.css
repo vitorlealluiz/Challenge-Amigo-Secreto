@@ -160,3 +160,17 @@ ul {
 .button-draw:hover {
     background-color: var(--color-button-hover);
 }
+
+.botao-remover {
+    width: 18px;
+    height: 18px;
+    padding: 0;
+    margin-left: 10px;
+    font-size: 10px;
+    border-radius: 50%;
+    background: #fe652b;
+    color: #ffffff;
+    border: none;
+    cursor: pointer;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
