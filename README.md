@@ -11,7 +11,6 @@
 ---
 
 # 📌 Índice
-- [📸 Capa](#-capa)
 - [🏆 Badges](#-badges)
 - [📖 Descrição do Projeto](#-descrição-do-projeto)
 - [📌 Status do Projeto](#-status-do-projeto)
@@ -22,13 +21,6 @@
 - [👨‍💻 Desenvolvedor](#-desenvolvedor)
 - [📜 Licença](#-licença)
 - [✅ Conclusão](#-conclusão)
-
----
-
-## 📸 Capa
-<p align="center">
-  <img src="./assets/demo.png" alt="Demonstração do projeto" width="700px">
-</p>
 
 ---
 
