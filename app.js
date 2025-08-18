@@ -28,6 +28,7 @@ function exibirNomes(){
         let item = document.createElement("li");
         item.textContent = amigo;
 
+        //Criar botão para excluir amigo
         let botaoRemover = document.createElement("button");
         botaoRemover.classList.add("botao-remover");
         botaoRemover.textContent = "X";
@@ -48,7 +49,7 @@ function sortearAmigo(){
     document.getElementById("resultado").innerHTML = `<li>${amigoSorteado}</li>`;
 }
 
-    //Adicionar amigo caso o usuário digite "enter"
+//Adicionar amigo caso o usuário digite "enter"
 document.getElementById("amigo").addEventListener("keypress", function(e){
    if(e.key === "Enter"){
         adicionarAmigo();
