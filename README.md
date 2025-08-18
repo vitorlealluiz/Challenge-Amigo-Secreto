@@ -11,24 +11,13 @@
 ---
 
 # 📌 Índice
-- [📸 Capa](#-capa)
 - [🏆 Badges](#-badges)
 - [📖 Descrição do Projeto](#-descrição-do-projeto)
 - [📌 Status do Projeto](#-status-do-projeto)
 - [✨ Funcionalidades](#-funcionalidades)
 - [🔗 Acesso ao Projeto](#-acesso-ao-projeto)
 - [🛠️ Tecnologias Utilizadas](#️-tecnologias-utilizadas)
-- [🙌 Contribuidores](#-contribuidores)
-- [👨‍💻 Desenvolvedor](#-desenvolvedor)
-- [📜 Licença](#-licença)
-- [✅ Conclusão](#-conclusão)
-
----
-
-## 📸 Capa
-<p align="center">
-  <img src="./assets/demo.png" alt="Demonstração do projeto" width="700px">
-</p>
+- [👨‍💻 Desenvolvedores](#-desenvolvedores)
 
 ---
 
@@ -72,6 +61,19 @@ O projeto foi concluído e está pronto para uso.
 
 
 Ou rode localmente:  
-```bash
+bash
 git clone https://github.com/seu-usuario/amigo-secreto.git
 cd amigo-secreto
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+- 🌐 HTML5 → Estrutura da página
+- 🎨 CSS3 → Estilização e design responsivo
+- ⚡ JavaScript (ES6+) → Lógica de funcionamento
+
+## 👨‍💻 Desenvolvedores 
+👨‍💻 Vitor Luiz Leal da Silva <br>
+<a href="https://www.linkedin.com/in/vitor-leal-9749b6300">LinkedIn</a> <br>
+<a href="https://github.com/vitorlealluiz">GitHub</a> 
+
