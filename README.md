@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="preview.png" alt="Preview do projeto" width="600px">
+  <img src="./assets/preview.png" alt="Preview do projeto" width="600px">
 </p>
 
 ---
@@ -68,8 +68,8 @@ O projeto foi concluído e está pronto para uso.
 ---
 
 ## 🔗 Acesso ao Projeto
-🔹 Acesse online: [Clique aqui](https://seu-usuario.github.io/amigo-secreto/)  
-*(substitua pelo link do GitHub Pages se publicar)*  
+🔹 Acesse online: [Clique aqui]()  
+
 
 Ou rode localmente:  
 ```bash
