@@ -57,12 +57,6 @@ O projeto foi concluído e está pronto para uso.
 ## 🔗 Acesso ao Projeto
 🔹 Acesse online: [Clique aqui](https://vitorlealluiz.github.io/Challenge-Amigo-Secreto/)  
 
-
-Ou rode localmente:  
-bash
-git clone https://github.com/seu-usuario/amigo-secreto.git
-cd amigo-secreto
-
 ---
 
 ## 🛠️ Tecnologias Utilizadas
