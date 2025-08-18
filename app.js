@@ -4,7 +4,6 @@ function adicionarAmigo(){
     let nome = document.getElementById("amigo").value; //recebe o nome do amigo
     if(nome == ""){
         alert("Pro favor, insira um nome.");
-        location.reload;
         return;
     }
     amigos.push(nome); //adiciona na lista
