@@ -9,7 +9,6 @@ function adicionarAmigo(){
     amigos.push(nome); //adiciona na lista
     exibirNomes();
     limparCampo(); //chama a função que limpa o campo
-    console.log(amigos);
 }
 
 function limparCampo(){
