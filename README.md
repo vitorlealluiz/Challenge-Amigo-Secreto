@@ -24,8 +24,6 @@
 ## 🏆 Badges
 <p align="center">
   <img src="https://img.shields.io/badge/status-finalizado-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/license-MIT-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/contribuições-bem--vindas-orange?style=for-the-badge" />
 </p>
 
 ---
@@ -57,13 +55,7 @@ O projeto foi concluído e está pronto para uso.
 ---
 
 ## 🔗 Acesso ao Projeto
-🔹 Acesse online: [Clique aqui]()  
-
-
-Ou rode localmente:  
-bash
-git clone https://github.com/seu-usuario/amigo-secreto.git
-cd amigo-secreto
+🔹 Acesse online: [Clique aqui](https://vitorlealluiz.github.io/Challenge-Amigo-Secreto/)  
 
 ---
 
